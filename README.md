@@ -1,0 +1,2 @@
+# Driver-Drowsiness
+Drowsiness has become one of the main causes for traffic accidents. • Traffic accidents cause millions of people to lose their lives every year • The process of falling asleep in the vehicle is a gradual event. Due to monotonous driving conditions and other environmental factors, the driver can change from normal to drowsiness. • Therefore, the first critical issue to be identified in the fatigue detection system is how to detect drowsiness accurately and early.
